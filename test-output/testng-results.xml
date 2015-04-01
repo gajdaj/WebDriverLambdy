@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24748" started-at="2015-04-01T20:21:50Z" finished-at="2015-04-01T20:22:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24748" started-at="2015-04-01T20:21:50Z" finished-at="2015-04-01T20:22:15Z">
+      <class name="Testy.NewTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:Testy.NewTest@33e5ccce]" name="before" is-config="true" duration-ms="6910" started-at="2015-04-01T22:21:50Z" finished-at="2015-04-01T22:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:Testy.NewTest@33e5ccce]" name="testLogin" duration-ms="10379" started-at="2015-04-01T22:21:57Z" finished-at="2015-04-01T22:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="after()[pri:0, instance:Testy.NewTest@33e5ccce]" name="after" is-config="true" duration-ms="7441" started-at="2015-04-01T22:22:07Z" finished-at="2015-04-01T22:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Testy.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
